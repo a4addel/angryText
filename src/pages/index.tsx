@@ -35,7 +35,7 @@ const Home: NextPage = () => {
 
         </textarea>
 
-      </div>       Made with hate by <a className="text-red-600" target="_blank" href="https://3adl.dev">Ahmad Addel</a>
+      </div>       Made with hate by <a className="text-red-600" rel="noreferrer" target="_blank" href="https://3adl.dev">Ahmad Addel</a>
 
     </div>
   );
