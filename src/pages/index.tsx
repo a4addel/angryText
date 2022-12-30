@@ -23,7 +23,7 @@ const Home: NextPage = () => {
 
 
   return (
-    <div className="w-full max-w-5xl h-full p-7">
+    <div className="w-full max-w-5xl h-full p-7 block mx-auto">
       <h1 className="text-3xl uppercase text-center font-bold m-1">Angry Text 🤬 </h1>
       <textarea value={text} className="p-1 focus:outline-none w-full h-2/5 border border-cyan-800" onChange={handleChange}>
 
